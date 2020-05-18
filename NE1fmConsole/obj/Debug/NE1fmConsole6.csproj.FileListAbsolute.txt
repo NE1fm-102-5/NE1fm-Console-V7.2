@@ -1,0 +1,13 @@
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\bin\Debug\NE1fmConsole6.exe.config
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\bin\Debug\NE1fmConsole6.exe
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\bin\Debug\NE1fmConsole6.pdb
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.csprojAssemblyReference.cache
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.Form1.resources
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.csproj.GenerateResource.cache
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.csproj.CoreCompileInputs.cache
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.exe
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.pdb
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.Close.resources
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.RemoteAccess.resources
+c:\users\harry\documents\visual studio 2017\Projects\NE1fmConsole6\NE1fmConsole6\obj\Debug\NE1fmConsole6.Changelog.resources

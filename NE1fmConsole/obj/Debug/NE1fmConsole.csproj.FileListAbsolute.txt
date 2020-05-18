@@ -1,0 +1,26 @@
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.csprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole6.Changelog.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole6.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.Properties.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole6.RemoteAccess.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.csproj.GenerateResource.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.csproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole6.Settings.resources
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\bin\Debug\NE1fmConsole.exe.config
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\bin\Debug\NE1fmConsole.exe
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\bin\Debug\NE1fmConsole.pdb
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole.csprojAssemblyReference.cache
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole6.Changelog.resources
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole6.Settings.resources
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole6.Form1.resources
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole.Properties.Resources.resources
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole6.RemoteAccess.resources
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole.exe
+D:\Programming\Visual Studio Files\NE1fmConsole (Working Version)\NE1fmConsole\obj\Debug\NE1fmConsole.pdb
